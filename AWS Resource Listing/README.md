@@ -38,7 +38,7 @@ Run the script by providing the AWS region and the service you want to list reso
 
 ```bash
 ./aws_resource_list.sh <aws_region> <aws_service>
-
+```
 Make sure to change permission for the file so that everyone will not change the executable file 
 
 ```bash
